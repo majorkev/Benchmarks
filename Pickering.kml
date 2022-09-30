@@ -1,0 +1,4846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Pickering.kml</name>
+	
+	<Style id="mark-destroyed">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="mark-active">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="active">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mark-active</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mark-active</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="destroyed">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#mark-destroyed</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#mark-destroyed</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<LookAt>
+			<longitude>-79.1</longitude>
+			<latitude>43.83</latitude>
+			<altitude>0</altitude>
+			<heading>-17</heading>
+			<tilt>0</tilt>
+			<range>13000</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+
+<!-- 
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+--> 
+
+	<Placemark>
+		<name>1-043</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-043.pdf">90.503m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.056878,43.835814</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-044</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-044.pdf">86.881m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.089936,43.833566</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>1-045</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-045.pdf">114.243m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.11392206428168,43.84109873093307</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-046</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-046.pdf">86.741m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.10061740009311,43.82629807382469</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-047</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-047.pdf">125.140m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.14776997304116,43.81667568258737</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-048</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-048.pdf">122.305m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.12846001744894,43.82921396356497</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-049</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-049.pdf">96.632m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.10394259433032,43.842920078839626</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-050</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-050.pdf">136.506m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.136306,43.836450</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-051</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-051.pdf">100.881m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.08381221491376,43.846221793855186</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-052</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-052.pdf">94.051m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.08315365238225,43.84247333480194</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-053</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-053.pdf">90.744m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.08029445230414,43.83875735762731</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-054</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-054.pdf">87.984m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.0799398426121,43.83581697313997</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-055</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-055.pdf">90.383m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.0730318627334,43.83956564384264</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-056</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-056.pdf">88.441m - Either I'm retarded, or I don't know how to position this benchmark.  It is entirely possible that the entire area has been re-built.</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.07232532417102,43.8437065831564</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-057</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-057.pdf">81.505m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.0804,43.8304</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-058</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-058.pdf">101.626m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.09244136710403,43.84074212648602</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-059</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-059.pdf">84.111m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.09688314924466,43.83746611310815</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-060</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-060.pdf">90.269m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.10138205487341,43.836969287603004</coordinates>
+		</Point>
+	</Placemark>
+	
+<!-- THIS IS THE END OF WHAT PICKERING SENT TO ME DIRECTLY -->	
+	
+	<Placemark>
+		<name>1-073</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-073.pdf">129.924m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.141939,43.828600</coordinates>
+		</Point>
+	</Placemark>
+		
+	<Placemark>
+		<name>1-089</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-089.pdf">131.236m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.148486,43.827863</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>1-090</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-090.pdf">140.969m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.159890,43.832716,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>2-061</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/2-061.pdf">147.584m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.157696,43.840455,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>2-063</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/2-063.pdf">142.588m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+
+			<coordinates>-79.136270,43.841777,0</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>2-065</name>
+		<description>The location of this benchmark could not be verified with sattelite photography.<br /><![CDATA[<a href="file:///D:/Benchmarks/Pickering/2-065.pdf">144.131m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.147006,43.841066</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>R-060</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-060.pdf">98.039m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.120666,43.807121,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-073</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-073.pdf">111.690m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.126373,43.802429,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-077</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-077.pdf">106.337m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.128083,43.806368,0</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-035</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-035.pdf">89.973m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.105893,43.820377</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-039</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-039.pdf">82.555m</a>]]></description>
+		<styleUrl>#destroyed</styleUrl>
+		<Point>
+			<coordinates>-79.082559,43.819355</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-049</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-049.pdf">82.031m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.078914,43.826929</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-050</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-050.pdf">80.932m</a>]]></description>
+		<styleUrl>#destroyed</styleUrl>
+		<Point>
+			<coordinates>-79.076502,43.821352</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-051</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-051.pdf">89.007m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.087039,43.827162</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-052</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-052.pdf">76.344m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.098078,43.824500</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-053</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-053.pdf">89.235m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.104227,43.817718</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-071</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-071.pdf">81.978m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.100235,43.808763</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-070</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-070.pdf">83.352m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.091819,43.824763</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-069</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-079.pdf">76.682m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.081086,43.813989</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-054</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-054.pdf">86.883m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.101761,43.814149</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>4-037</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-054.pdf">198.866m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.182197,43.882763</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>4-039</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/4-039.pdf">198.949m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.176456,43.884057</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>4-040</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/4-040.pdf">185.874m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.166150,43.886267</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>4-034</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/4-034.pdf">155.292m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.095828,43.902571</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>4-031</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/4-031.pdf">151.957m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.088168,43.904176</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>5-061</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/5-061.pdf">141.821m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.077711,43.906533</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>4-030</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/4-030.pdf">114.410m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.083786,43.895357</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>4-029</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/4-029.pdf">140.301m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.094084,43.894958</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>4-028</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/4-028.pdf">141.613m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.081484,43.887532</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>4-027</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/4-027.pdf">133.341m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.09064713806355,43.88517028199728</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>4-026</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/4-026.pdf">139.433m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.09510997698716,43.886028700955286</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>3-022</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/3-022.pdf">131.617m</a>]]><br/>
+		It looks like this benchmark was destroyed.<br/>
+		While it does show a revision in 2004, Brock was re-aligned sometime around 2007, and "Old Taunton" was renamed to William Jackson Drive. Looks like the building this BM was on was demolished sometime between 2009-2014 to make way for a new subdivision.</description>
+		<styleUrl>#destroyed</styleUrl>
+		<Point>
+			<coordinates>-79.08789739139934,43.88086091608761</coordinates>
+		</Point>
+	</Placemark>
+	<!--
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name></name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates></coordinates>
+		</Point>
+	</Placemark>
+	
+	
+	
+	
+	
+	-->
+</Document>
+</kml>
