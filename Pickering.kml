@@ -525,25 +525,25 @@
 			<coordinates>-79.08789739139934,43.88086091608761</coordinates>
 		</Point>
 	</Placemark>
-	<!--
+	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>3-028</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/3-028.pdf">133.708m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.10083017737742,43.88147138351921</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>3-018</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/3-018.pdf">157.711m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.11117845964512,43.87963619438131</coordinates>
 		</Point>
 	</Placemark>
-	
+<!--
 	<Placemark>
 		<name></name>
 		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
