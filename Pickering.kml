@@ -543,52 +543,54 @@
 			<coordinates>-79.11117845964512,43.87963619438131</coordinates>
 		</Point>
 	</Placemark>
-<!--
+
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
-		<styleUrl>#active</styleUrl>
+		<name>3-019</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/3-019.pdf">179.798m</a>]]><br/>
+		Another new subdivision was started in this area sometime around 2015. I think this BM was destroyed shortly after 2002.</description>
+		<styleUrl>#destroyed</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.121327,43.876511</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
-		<styleUrl>#active</styleUrl>
+		<name>4-042</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/4-042.pdf">176.571m</a>]]><br/>
+		Building seems to have been demolished after 2005 to make way for a subdivision.</description>
+		<styleUrl>#destroyed</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.126194,43.876192</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>3-027</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/3-027.pdf">165.085m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.13375532458626,43.87405159306669</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>3-026</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/3-026.pdf">168.536m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.14033267552954,43.86929074441597</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>3-029</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/3-029.pdf">166.069m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.13458426215561,43.863744687690414</coordinates>
 		</Point>
 	</Placemark>
-	
+<!--	
 	<Placemark>
 		<name></name>
 		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
