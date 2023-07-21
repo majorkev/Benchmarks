@@ -590,241 +590,245 @@
 			<coordinates>-79.13458426215561,43.863744687690414</coordinates>
 		</Point>
 	</Placemark>
-<!--	
+
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>3-030</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/3-030.pdf">169.739m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.148476,43.870320</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>3-025</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/3-025.pdf">167.058m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.145854,43.863708</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>3-024</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/3-024.pdf">174.542m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.154401,43.858921</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>3-031</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/3-031.pdf">183.023m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.158424,43.868332</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>4-041</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/4-041.pdf">184.429m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.162724,43.877500</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>R-064</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-064.pdf">120.846m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.143166,43.816146</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-068</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-068.pdf">82.935m</a>]]></description>
+		<styleUrl>#destroyed</styleUrl>
+		<Point>
+			<coordinates>-79.069828,43.814933</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>R-074</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-074.pdf">93.231m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.060296,43.815399</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>R-046</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-046.pdf">89.524m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.058251,43.820031</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>R-047</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-047.pdf">90.019m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.062036,43.821507</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>R-075</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-075.pdf">89.009m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.064084,43.825769</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-048</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-048.pdf">82.166m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.069338,43.828030</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>R-042</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-042.pdf">84.884m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.067375,43.831640</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>R-043</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-043.pdf">84.869m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.074500,43.831168</coordinates>
+		</Point>
+	</Placemark>
+		
+	<Placemark>
+		<name>R-067</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-067.pdf">77.930m</a>]]><br/>
+		There were some houses in this area but it looks like it was all reclaimed sometime between 2005-2009.</description>
+		<styleUrl>#destroyed</styleUrl>
+		<Point>
+			<coordinates>-79.044958,43.816206</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>R-066</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-066.pdf">78.086m</a>]]><br/>
+		This benchmark seems like it may have been destroyed, but without inspection I will leave it as active.</description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.040097,43.819720</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>R-065</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-065.pdf">81.062m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.046840,43.822293</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>R-045</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-045.pdf">86.389m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.051498,43.821136</coordinates>
+		</Point>
+	</Placemark>
+
+	<Placemark>
+		<name>R-044</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-044.pdf">86.843m</a>]]></description>
+		<styleUrl>#active</styleUrl>
+		<Point>
+			<coordinates>-79.054271,43.827984</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>R-041</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/R-041.pdf">90.801m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.049538,43.836696</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>1-082</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-082.pdf">93.501m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.050356,43.843011</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>1-081</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-081.pdf">89.564m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.060119,43.840657</coordinates>
 		</Point>
 	</Placemark>
 	
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>1-086</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-086.pdf">83.095m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.062276,43.844653</coordinates>
 		</Point>
 	</Placemark>
-	
+
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>1-080</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-080.pdf">92.971m</a>]]></description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.070677,43.840505</coordinates>
 		</Point>
 	</Placemark>
-	
+
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>1-076</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-076.pdf">83.145m</a>]]><br/>
+		I may be off by one building, D&amp;J listed it as 300m±, and I went on the - side of things.</description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.064767,43.849706</coordinates>
 		</Point>
 	</Placemark>
-	
+
 	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
+		<name>1-077</name>
+		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/1-077.pdf">83.248m</a>]]><br/>
+		The description on this one is not very good.  I cannot see the fire hydrant, and the whole area looks redeveloped.  I doubt it exits.</description>
 		<styleUrl>#active</styleUrl>
 		<Point>
-			<coordinates></coordinates>
+			<coordinates>-79.069683,43.851038</coordinates>
 		</Point>
 	</Placemark>
-	
-	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
-		<styleUrl>#active</styleUrl>
-		<Point>
-			<coordinates></coordinates>
-		</Point>
-	</Placemark>
-	
-	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
-		<styleUrl>#active</styleUrl>
-		<Point>
-			<coordinates></coordinates>
-		</Point>
-	</Placemark>
-	
-	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
-		<styleUrl>#active</styleUrl>
-		<Point>
-			<coordinates></coordinates>
-		</Point>
-	</Placemark>
-	
-	<Placemark>
-		<name></name>
-		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
-		<styleUrl>#active</styleUrl>
-		<Point>
-			<coordinates></coordinates>
-		</Point>
-	</Placemark>
-	
+<!--		
 	<Placemark>
 		<name></name>
 		<description><![CDATA[<a href="file:///D:/Benchmarks/Pickering/.pdf">m</a>]]></description>
